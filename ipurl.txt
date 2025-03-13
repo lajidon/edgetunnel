@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/lajidon/edgetunnel/refs/heads/main/ip.txt@43.129.201.43
+https://raw.githubusercontent.com/lajidon/edgetunnel/refs/heads/main/ip.txt@8.210.58.6
